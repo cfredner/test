@@ -1,0 +1,61 @@
+body {font-family: Impact, Charcoal, sans-serif;
+     background-color: black;
+	}
+	
+	h1 {
+		color: pink;
+	}
+	 h2 {
+		color: yellow;
+		
+	}
+	
+	p {
+		color: blue;
+	}
+	 
+
+    ul {
+    	
+    	font-family: helvetica;
+    	list-style: square;
+    	
+    	color: green;
+    }
+
+
+
+
+
+.info{
+	
+	font-family: Verdana;
+	color: purple;
+	font-weight: 900;
+	
+}
+
+img.top {vertical-align:text-top;}
+img.bottom {vertical-align:text-bottom;}
+
+img 
+{
+position:absolute;
+clip:rect(0px,60px,200px,0px);
+}
+
+
+.newspaper
+{
+column-count:3;
+-moz-column-count:3; /* Firefox */
+-webkit-column-count:3; /* Safari and Chrome */
+color: purple;
+}
+
+
+
+#haiti {
+	background-color: yellow;
+	
+}
